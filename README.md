@@ -21,3 +21,5 @@ Finally you can call openModal on your trigger to open the the modal dialog, and
 itself to close it, like so :  
   `<button onClick={openModal}>Save</button>`  
   `<Modal open={open} message="Text exemple !" onClose={closeModal}/>`
+
+You can also import the package css in "modal-package/dist/style.css".
