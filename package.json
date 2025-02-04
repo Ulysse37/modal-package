@@ -1,6 +1,6 @@
 {
   "name": "ulysse37-modal-package",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Courtet Ulysse",
   "description": "A simple modal dialog component for React",
   "homepage": "https://github.com/Ulysse37/modal-package",
